@@ -10,9 +10,22 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
+
+- type: ctftime
+  icon: "fa-solid fa-flag"
+  url:  'https://ctftime.org/team/305426'
+
+- type: htb
+  icon: "fa-solid fa-cube"
+  url:  'https://app.hackthebox.com/teams/overview/4994'  # Fill with your Linkedin homepage
+
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/company/teampwnus'  # Fill with your Linkedin homepage
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
