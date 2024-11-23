@@ -21,17 +21,15 @@ Get to know the minds behind the keyboards!
 | m3tadr0id       | [m3tadr0id](https://x.com/m3tadr0id)           | https://stephenx0r.github.io/    | Rev, Forensics                   |
 | hushkat         | [dr0idbot](https://x.com/dr0idbot)             | https://hushkat.github.io/       | Web, Crypto, Boot2Root           |
 | Winter          | [byronchris25](https://x.com/byronchris25)     | https://blog.winterdroid.dev/    | Pwn, Web, Rev, Boot2Root         |
-| Sholim          | [Shol1m](https://x.com/Shol1m)                 |                                  | Web, Pwn                         |
+| b33tl3          | [stanley2_ke](https://x.com/stanley2_ke)       |https://ravistanley.github.io/    | Crypto, Forensics, OSINT         |
+| Sholim          | [Shol1m](https://x.com/Shol1m)                 |https://sholim.netlify.app/       | Web, Pwn                         |
 | Z👀meye         | [AnangweVelma](https://x.com/AnangweVelma)     |                                  | Web, Rev, Forensics, OSINT       |
-| Yvonne Gaicugi  | [cyberspace_ke](https://x.com/cyberspace_ke)   |                                  | Crypto, Forensics, OSINT         |
 | Eugene Karewa   | [EugeneKarewa](https://x.com/Eugenekarewa)     |                                  | Web, Forensics, OSINT            |
 | r00tKiMuT       | [adonijah_kimut](https://x.com/adonijah_kimut) |                                  | Web, Pwn, OSINT                  |
-| b33tl3          | [stanley2_ke](https://x.com/stanley2_ke)       |                                  | Crypto, Forensics, OSINT         |
 | itsyourgirljojo | [JoyceOdhia003](https://x.com/JoyceOdhia003)   |                                  | Web, Forensics, OSINT            |
 | bitraven        | [St3minist](https://x.com/St3minist)           |                                  | Web, Forensics, OSINT            |
 | SH3RRY          | [sherry_obare3](https://x.com/sherry_obare3)   |                                  | Web, Boot2Root , OSINT           |
 | Lindsey         | [AmelinLindsey](https://x.com/AmelinLindsey)   |                                  | OSINT                            |
 | Gen_            | [Gen_duta](https://x.com/Gen_duta)             |                                  | Pwn                              |
 | flyingDutchman  |                                                |                                  | Web, Mobile                      |
-| Connie          |                                                |                                  | Web, Forensics, OSINT            |
 | nk1r0t3ch       |                                                |                                  | Web, OSINT                       |
