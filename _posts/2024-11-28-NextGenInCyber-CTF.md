@@ -10,7 +10,7 @@ tags:
 math: true
 ---
 
-In this blog post, we explore the challenges tackled during the NextgenInCyber CTF 2024, organized by AfricaCERT for the SADC region. Our team proudly secured 5th place out of 25 competing teams.  Shoutout to our MVP, [Oste](https://x.com/oste_ke), who crushed all the forensic challenges like a pro! 🔥
+In this blog post, we explore the challenges tackled during the NextgenInCyber CTF 2024, organized by AfricaCERT for the SADC region on November 26-28. Our team proudly secured 5th place out of 25 competing teams.  Shoutout to our MVP, [Oste](https://x.com/oste_ke), who crushed all the forensic challenges like a pro! 🔥
 
 ![image](https://gist.github.com/user-attachments/assets/074500e8-af0c-4095-bcf7-776b349ec62d)
 
