@@ -1,7 +1,7 @@
 ---
 title: "NextGenInCyber CTF"
 date: 2024-11-28 01:09:33 +0300
-authors: [oste, Mystique, m3tadr0id, B0nf4c3, dr0idbot]
+authors: [oste, Mystique, m3tadr0id, B0nf4c3, Hushkat]
 description: NextGenInCyber CTF Writeups
 image: /assets/img/Posts/nextgenincyber.png
 categories: [CTF-Time]

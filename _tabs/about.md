@@ -19,7 +19,7 @@ Get to know the minds behind the keyboards!
 | Sh3rl0ck        | [B0nf4c3](https://twitter.com/B0nf4c3)         | https://bonifeso.github.io/      | Web, Mobile                      |
 | Sk!nnyLiz@3d    | [ni_g33](https://x.com/ni_g33)                 | https://medium.com/@nigel.pepeon | Web                              |
 | m3tadr0id       | [m3tadr0id](https://x.com/m3tadr0id)           | https://stephenx0r.github.io/    | Rev, Forensics                   |
-| hushkat         | [dr0idbot](https://x.com/dr0idbot)             | https://hushkat.github.io/       | Web, Crypto, Boot2Root           |
+| HushKat         | [dr0idbot](https://x.com/dr0idbot)             | https://hushkat.github.io/       | Web, Boot2Root                   |
 | Winter          | [byronchris25](https://x.com/byronchris25)     | https://blog.winterdroid.dev/    | Pwn, Web, Rev, Boot2Root         |
 | b33tl3          | [stanley2_ke](https://x.com/stanley2_ke)       |https://ravistanley.github.io/    | Crypto, Forensics, OSINT         |
 | Sholim          | [Shol1m](https://x.com/Shol1m)                 |https://sholim.netlify.app/       | Web, Pwn                         |
